@@ -1,4 +1,3 @@
 hello 
 
-people
-git
+javascript 
